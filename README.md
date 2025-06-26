@@ -17,7 +17,7 @@ Created for learning purposes and to demonstrate DOM manipulation, game logic, a
 
 ## 📸 Screenshot
 
-![image alt] (https://github.com/nindyodyanii/game-/blob/263801e4f7676bcac00db5262671fcfd9326af18/game_-.jpg)
+![image alt](https://github.com/nindyodyanii/game-/blob/65b26ae6ab00ff604348daf935039bbc004dfda2/game_-.jpg)
 
 ## 🛠️ Tech Stack
 
